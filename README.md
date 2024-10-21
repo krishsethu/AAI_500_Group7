@@ -23,10 +23,11 @@ Project Status: [Planned, Active, On-hold, Completed]
 
 Partner(s)/Contributor(s)  
 •	Ananya Chandraker, Sethuraman Krishnasamy, Suman Senapathi
+
+Partners contact:
 •	Ananya Chandraker :https://www.linkedin.com/in/ananyachandraker/,
 •	Sethuraman Krishnasamy: , 
 •	Suman Senapathi: webjdi.github.io 
-•	Partner contact: [Name of Contact], and If you do not have a partner leave this section out
 
 Methods Used
 A few examples are:

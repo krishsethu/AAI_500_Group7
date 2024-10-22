@@ -1,7 +1,7 @@
 # AAI_500_Group7 (Statistical Analysis and Predictive Modeling for AIDS Virus Infection)
 This project is a part of the AAI_500_Group7 course in the Applied Artificial Intelligence Program at the University of San Diego (USD) with the objective of developing an end-to-end statistical analysis of a dataset.
 
-Project Status: [Planned, Active, On-hold, Completed]
+Project Status: [Completed]
 
  Title of the Project: Statistical Analysis and Predictive Modeling for AIDS Virus Infection
 
@@ -9,17 +9,10 @@ Project Status: [Planned, Active, On-hold, Completed]
 
  Objectives of the Project: 
 1) To develop a predictive model for AIDS virus Infection using the clinical data.
-2) We aim to identify the key risk factors associated with the HIV infection and asses their impact
-   through probability and statistical analysis. 
-3) We aim to perform Descriptive statistics like calculation of mean, median, mode, variance and 
-   standard deviation for numerical variables to gain insights into the central tendency and dispersion 
-   of numerical variables such as age and clinical data to understand the characteristics of the population. 
-4) We aim to perform Inferential statistics like Hypothesis testing and chi-squared tests
-   to compare means between different groups (for example: infected vs non-infected patients)
-   and derive conclusions about the broader population based on the sample data
-5) We aim to perform Predictive modeling to establish the relationship between predictors 
-   like (clinical results) and the viral infection using logistic regression analysis, and correlation analysis.
-   This would predict the likelihood of HIV infection based on various predictors
+2) We aim to identify the key risk factors associated with the HIV infection and assess their impact trough probability and statistical analysis.
+3) We aim to perform statistical analysis to gain insights into the central tendency and dispersion of numerical variables such as age, gender and on clinical data to understand characteristics of population.
+4) We aim to compute Inferential statistics in different groups (for example: infected vs non-infected patients) and derive conclusions about the broader population based on the sample data
+5) We aim to perform predictive modeling to establish the relationship between explanatory variables and response variables using classification algorithm.
 
 Partner(s)/Contributor(s)  
 •	Ananya Chandraker, Sethuraman Krishnasamy, Suman Senapathi

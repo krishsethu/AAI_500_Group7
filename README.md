@@ -9,8 +9,8 @@ Project Status: [Completed]
 
  Objectives of the Project: 
 1) To develop a predictive model for AIDS virus Infection using the clinical data.
-2) We aim to identify the key risk factors associated with the HIV infection and assess their impact trough probability and statistical analysis.
-3) We aim to perform statistical analysis to gain insights into the central tendency and dispersion of numerical variables such as age, gender and on clinical data to understand characteristics of population.
+2) We aim to identify the key risk factors associated with HIV infection and assess their impact through probability and statistical analysis.
+3) We aim to perform statistical analysis to gain insights into the central tendency and dispersion of numerical variables such as age, gender, and clinical data to understand the characteristics of the population.
 4) We aim to compute Inferential statistics in different groups (for example: infected vs non-infected patients) and derive conclusions about the broader population based on the sample data
 5) We aim to perform predictive modeling to establish the relationship between explanatory variables and response variables using classification algorithm.
 
@@ -36,10 +36,10 @@ Technologies
 Project Description: 
 This project performs a Statistical Analysis and Predictive Modeling for AIDS Virus Infection
 
-We have used  the AIDS classification dataset which encapsulates a broad spectrum of clinical and Demographical variables related to AIDS patients.
+We have used  the AIDS classification dataset which encapsulates a broad spectrum of clinical and Demographic variables related to AIDS patients.
 
 Details of Dataset:
-This is a AIDS classification dataset which encapsulates a broad spectrum of clinical and Demographical variables related to AIDS patients.
+This is an AIDS classification dataset that encapsulates a broad spectrum of clinical and Demographic variables related to AIDS patients.
 
 Data Source: - OpenML- AIDS_Virus_Infection_Prediction (https://www.openml.org/search?type=data&status=active&id=46076&sort=runs)
 
